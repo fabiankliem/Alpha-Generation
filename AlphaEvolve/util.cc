@@ -14,7 +14,7 @@
 
 #include "util.h"
 
-namespace automl_zero {
+namespace alphaevolve {
 
 IntegerT Pow2(const IntegerT exp) {
   return 1 << exp;
